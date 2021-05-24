@@ -39,8 +39,9 @@ Other scripts originate from the original benchmark model of 510 which I haven't
 - df_total.csv: dataframe with all information about Kenya and Uganda that is used for modelling where no restriction is set to the certainty of the flood.
 - uga_impact_data.csv: contains information on the impact of the floods that occurred in Uganda. In this file, you can find the certainty of the flood (data_quality_score).
 - ken_impact_data.csv: contains information on the impact of the floods that occurred in Kenya. In this file, you can find the certainty of the flood (data_quality).
-- settings.cfg: The GloFAS credential file which is necessary to get GloFAS data.
 
 ### Important remarks
 If you want to extract information from Google Earth Engine (GEE), you need an account. 
 Go to "https://code.earthengine.google.com/" and check whether you can sign in. If not, fill in the form to create an account. 
+
+Besides that, you will need a GloFAS credentials file (settings.cfg), which you can get from Jacopo. 
