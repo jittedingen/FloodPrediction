@@ -44,4 +44,4 @@ Other scripts originate from the original benchmark model of 510 which I haven't
 If you want to extract information from Google Earth Engine (GEE), you need an account. 
 Go to "https://code.earthengine.google.com/" and check whether you can sign in. If not, fill in the form to create an account. 
 
-Besides that, you will need a GloFAS credentials file (settings.cfg), which you can get from Jacopo. 
+Besides that, you will need a GloFAS credentials file (settings.cfg), which you can get from Jacopo. Please set this file in the main folder (where you can also find the spatial matrix file.)
