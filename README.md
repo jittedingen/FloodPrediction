@@ -37,8 +37,8 @@ Other scripts originate from the original benchmark model of 510 which I haven't
 - df_totalhighqual.csv: dataframe with all information about Kenya and Uganda that is used for modelling where the Uganda certainty of the flood occurrence (data_quality_score) is larger than 3 & for Kenya larger (data_quality) than 1.
 - df_totalmediumqual.csv: dataframe with all information about Kenya and Uganda that is used for modelling where the Uganda certainty of the flood occurrence (data_quality_score) is larger than 3 & for Kenya larger (data_quality) than 0.
 - df_total.csv: dataframe with all information about Kenya and Uganda that is used for modelling where no restriction is set to the certainty of the flood.
-- uga_impact_data.csv: contains information on the impact of the floods that occurred in Uganda. In this file, you can find the certainty of the flood (data_quality_score).
-- ken_impact_data.csv: contains information on the impact of the floods that occurred in Kenya. In this file, you can find the certainty of the flood (data_quality).
+- uga_impact_data.csv: can be found in the Uganda input folder & contains information on the impact of the floods that occurred in Uganda. In this file, you can find the certainty of the flood (data_quality_score).
+- ken_impact_data.csv: can be found in the Kenya input folder & contains information on the impact of the floods that occurred in Kenya. In this file, you can find the certainty of the flood (data_quality).
 
 ### Important remarks
 If you want to extract information from Google Earth Engine (GEE), you need an account. 
